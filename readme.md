@@ -3,28 +3,28 @@ A pretty complete list of all startup/tech entities on the island.
 # Organizations
 
 ## Accelerators
-https://www.bluestartups.com/
-https://elementalexcelerator.com/
+- https://www.bluestartups.com/
+- https://elementalexcelerator.com/
 
 ## Active Meetup Groups
-https://www.meetup.com/PyHawaii-Python-Users-Group
-https://www.meetup.com/Code-for-Hawaii/
-https://www.meetup.com/Hawaii-Machine-Learning-Meetup/
+- https://www.meetup.com/PyHawaii-Python-Users-Group
+- https://www.meetup.com/Code-for-Hawaii/
+- https://www.meetup.com/Hawaii-Machine-Learning-Meetup/
 
 ## Investor Groups
-https://hvca.org/
-https://www.hawaiiangels.org/
+- https://hvca.org/
+- https://www.hawaiiangels.org/
 
 ## Government Groups
-https://www.htdc.org/
+- https://www.htdc.org/
 
 ## Coworking Spaces
-https://sandboxhawaii.org/
-https://www.theboxjelly.com/
-https://impacthubhnl.com/
+- https://sandboxhawaii.org/
+- https://www.theboxjelly.com/
+- https://impacthubhnl.com/
 
 ## University Programs
-http://pace.shidler.hawaii.edu/
+- http://pace.shidler.hawaii.edu/
 
 # Other
 

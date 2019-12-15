@@ -36,7 +36,7 @@ A pretty complete list of all startup/tech entities on the island.
 - [Whole Foods Ala Moana](https://www.yelp.com/biz/whole-foods-market-honolulu-8)
 - [Island Brew Ala Moana](https://www.yelp.com/biz/island-brew-coffeehouse-honolulu-9_)
 - [Morning Brew at SALT in Kaka'ako](https://www.yelp.com/biz/morning-brew-kakaako-honolulu-3)
-- [Island Brew Hawai'i Kai]https://www.yelp.com/biz/island-brew-coffeehouse-honolulu)
+- [Island Brew Hawai'i Kai](https://www.yelp.com/biz/island-brew-coffeehouse-honolulu)
 - [Coffee Talk](https://www.yelp.com/biz/coffee-talk-honolulu)
 - [Waioli Kitchen & Bake Shop](https://www.yelp.com/biz/waioli-kitchen-and-bake-shop-honolulu)
 - [Knots Coffee Roasters](https://www.yelp.com/biz/knots-coffee-roasters-honolulu-2?)
